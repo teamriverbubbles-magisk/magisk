@@ -9,6 +9,14 @@
       "zipUrl": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.2_102.zip",
       "changelog": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.2_102.md",
       "size": 19836
+    },
+    {
+      "timestamp": 1732306275.0,
+      "version": "v10.3",
+      "versionCode": 103,
+      "zipUrl": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.3_103.zip",
+      "changelog": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.3_103.md",
+      "size": 21202
     }
   ]
 }

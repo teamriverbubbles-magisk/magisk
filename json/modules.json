@@ -6,20 +6,20 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1732305946.165247
+    "timestamp": 1732307468.039775
   },
   "modules": [
     {
       "id": "xmlpak-RE-XH",
       "name": "xmlpak-RE \u2013 a road to vendor apps",
-      "version": "v10.2",
-      "versionCode": 102,
+      "version": "v10.3",
+      "versionCode": 103,
       "author": "Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda), Xavier horwood",
       "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
       "added": 1732304724.631884,
       "verified": false,
-      "timestamp": 1732252958.0,
-      "size": 19836,
+      "timestamp": 1732306275.0,
+      "size": 21202,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -34,6 +34,14 @@
           "zipUrl": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.2_102.zip",
           "changelog": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.2_102.md",
           "size": 19836
+        },
+        {
+          "timestamp": 1732306275.0,
+          "version": "v10.3",
+          "versionCode": 103,
+          "zipUrl": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.3_103.zip",
+          "changelog": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.3_103.md",
+          "size": 21202
         }
       ]
     }
