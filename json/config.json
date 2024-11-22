@@ -1,0 +1,7 @@
+{
+  "name": "Teamriverbubbles Magisk Repo",
+  "base_url": "https://magisk.teamriverbubbles.com/",
+  "max_num": 3,
+  "enable_log": true,
+  "log_dir": "log"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "xmlpak-RE-XH",
+  "timestamp": 1732252958.0,
+  "versions": [
+    {
+      "timestamp": 1732252958.0,
+      "version": "v10.2",
+      "versionCode": 102,
+      "zipUrl": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.2_102.zip",
+      "changelog": "https://magisk.teamriverbubbles.com/modules/xmlpak-RE-XH/v10.2_102.md",
+      "size": 19836
+    }
+  ]
+}
