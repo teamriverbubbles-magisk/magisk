@@ -3,6 +3,8 @@
   "enable": true,
   "verified": false,
   "update_to": "https://raw.githubusercontent.com/Xavierhorwood/xmlpak-RE/refs/heads/RE/update.json",
+  "changelog": "https://raw.githubusercontent.com/Xavierhorwood/xmlpak-RE/refs/heads/RE/changelog.md",
+  "source": "https://github.com/teamriverbubbles-magisk/magisk/tree/main",
   "added": 1732304724.631884,
   "last_update": 1732252958.0,
   "versions": 1

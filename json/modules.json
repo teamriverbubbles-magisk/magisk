@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1732304753.053666
+    "timestamp": 1732305946.165247
   },
   "modules": [
     {
@@ -24,7 +24,7 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732304724.631884,
-        "source": null
+        "source": "https://github.com/teamriverbubbles-magisk/magisk/tree/main"
       },
       "versions": [
         {
