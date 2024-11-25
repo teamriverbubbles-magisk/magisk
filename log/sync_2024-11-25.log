@@ -16,3 +16,9 @@
 [2024/11/25 12:20:13] Pull INFO: _check_version_code: [xmlpak-RE-XH] -> already the latest version
 [2024/11/25 12:20:13] LocalTracks INFO: get_tracks: modules_folder = /home/runner/work/magisk/magisk/modules
 [2024/11/25 12:20:13] LocalTracks INFO: get_tracks: size = 1
+[2024/11/25 18:13:52] LocalTracks INFO: get_tracks: modules_folder = /home/runner/work/magisk/magisk/modules
+[2024/11/25 18:13:52] LocalTracks INFO: get_tracks: size = 1
+[2024/11/25 18:13:52] Pull DEBUG: from_track: [xmlpak-RE-XH] -> type: ONLINE_JSON
+[2024/11/25 18:13:53] Pull INFO: _check_version_code: [xmlpak-RE-XH] -> already the latest version
+[2024/11/25 18:13:53] LocalTracks INFO: get_tracks: modules_folder = /home/runner/work/magisk/magisk/modules
+[2024/11/25 18:13:53] LocalTracks INFO: get_tracks: size = 1
