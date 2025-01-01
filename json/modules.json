@@ -4,9 +4,11 @@
   "support": null,
   "donate": null,
   "submission": null,
+  "cover": null,
+  "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1735733875.786936
+    "timestamp": 1735755161.632968
   },
   "modules": [
     {
